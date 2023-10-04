@@ -1,6 +1,4 @@
 # Marina-API
-https://cs-493-portfolio-tiua.uc.r.appspot.com/
-
 - This is a REST API built using NodeJS/Express that models a marina with boats and loads that are stored on the boats.
 - REST API endpoints and documentation can be found [here](https://github.com/andrewtiu33/Marina-API/blob/main/tiua_project_specifications.pdf).
 - Allows user account creation/authorization using Google OAuth 2.0 and Google's People API.
